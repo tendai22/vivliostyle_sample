@@ -9,15 +9,15 @@ module.exports = {
   entry: [
     'cover.md', // `title` is automatically guessed from the file (frontmatter > first heading).
   //  'test_x.md',
-    'toc.md',
+  //  'toc.md',
     'intro_x.md',
-    'preprocessing_x.md',
-    'cover_x.md',
-    'toc_x.md',
-    'box_and_flow_x.md',
-    'env_x.md',
+  //  'preprocessing_x.md',
+  //  'cover_x.md',
+  //  'tocdesc_x.md',
+  //  'box_and_flow_x.md',
+  //  'env_x.md',
     'footnote_x.md',
-    'box_layout_x.md',
+  //  'box_layout_x.md',
     // {
     //   path: 'epigraph.md',
     //   title: 'Epigraph', // title can be overwritten (entry > file),
